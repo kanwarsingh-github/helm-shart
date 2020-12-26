@@ -3,12 +3,12 @@ entries:
   backendconfig:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-12-26T17:40:24.942280145Z"
+    created: "2020-12-26T18:01:48.393795537Z"
     description: A Helm chart for Kubernetes
     digest: 424980b907b7cd26ec07b3e8584606d45b48b212db8f9c41d9f885ef499b5952
     name: backendconfig
     type: application
     urls:
-    - https://github.com/kanwarsingh-github/helm-shart/backendconfig-0.1.0.tgz
+    - https://github.com/kanwarsingh-github/backendconfig-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-26T17:40:24.941175977Z"
+generated: "2020-12-26T18:01:48.393175328Z"
